@@ -1,0 +1,22 @@
+.divBox {
+    display: flex;
+    justify-content: center;
+}
+
+.box1 {
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.box2 {
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.box3 {
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
