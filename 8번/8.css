@@ -1,0 +1,12 @@
+body {
+    height: 200vh;
+    background-color: bisque;
+  }
+
+.upbtn {
+    position: fixed;
+    height: 40px;
+    width: 60px;
+    right: 10px;
+    bottom: 10px;
+}
